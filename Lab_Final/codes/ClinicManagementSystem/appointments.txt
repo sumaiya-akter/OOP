@@ -1,0 +1,4 @@
+Doctor: Dr. Smith, Patient: sumaiya, Date: 2024.9.9, Diagnosis: General Practitioner
+Doctor: Dr. Smith, Patient: sumaiya, Date: 2024.09.12, Diagnosis: Flue
+Doctor: Dr. Smith, Patient: sumaiya, Date: 2024.09.12, Diagnosis: Flu
+Doctor: Dr. Smith, Patient: sumaiya, Date: 2024.09.12, Diagnosis: Flu
